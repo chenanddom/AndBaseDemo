@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.kfb.a">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/andBaseDemo/libs/com.kfb.a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
